@@ -1,11 +1,11 @@
 import Layout from '../components/layout/Layout';
 import styled from '@emotion/styled';
 
-export default function Home() {
+export default function Nosotros() {
   return (
     <div>
       <Layout>
-        <h1>Inicio</h1>
+        <h1>Nosotros</h1>
       </Layout>
     </div>
   )
